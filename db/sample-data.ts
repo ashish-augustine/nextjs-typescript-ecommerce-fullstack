@@ -99,23 +99,6 @@ const sampleData = {
       isFeatured: false,
       banner: null,
     },
-    {
-      name: 'Polo Classic Pink Hoodie',
-      slug: 'polo-classic-pink-hoodie',
-      category: "Men's Sweatshirts",
-      description: 'Soft, stylish, and perfect for laid-back days',
-      images: [
-        '/images/sample-products/p6-1.jpg',
-        '/images/sample-products/p6-2.jpg',
-      ],
-      price: 99.99,
-      brand: 'Polo',
-      rating: 4.6,
-      numReviews: 12,
-      stock: 8,
-      isFeatured: true,
-      banner: null,
-    },
   ],
 };
 
