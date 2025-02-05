@@ -19,7 +19,7 @@ Live Demo :  https://prostore-smoky.vercel.app/
 
 # Prostore
 
-A full featured Ecommerce website built with Next.js, TypeScript, PostgreSQL and Prisma.
+A full featured e-commerce website built with Next.js, TypeScript, PostgreSQL and Prisma.
 
 <img src="/public/images/screen.png" alt="Next.js Ecommerce" />
 
