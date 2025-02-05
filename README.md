@@ -8,9 +8,6 @@ A full featured e-commerce website built with Next.js, TypeScript, PostgreSQL an
 <img src="/public/images/screen.png" alt="Next.js Ecommerce" />
 
 
-## Live Demo :  https://prostore-smoky.vercel.app/ 
-
-
 ## Features
 
 - Next Auth authentication
