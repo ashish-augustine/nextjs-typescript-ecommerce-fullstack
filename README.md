@@ -27,7 +27,6 @@ A full featured e-commerce website built with Next.js, TypeScript, PostgreSQL an
 - Search form (customer & admin)
 - Sorting, filtering & pagination
 - Dark/Light mode
-- Much more
 
 ## Usage
 
@@ -154,54 +153,3 @@ To seed the database with sample data, run the following command:
 ```bash
 npx tsx ./db/seed
 ```
-
-## Demo
-
-I am not sure how long I will have this demo up but you can view it here:
-
-https://prostore-one.vercel.app/
-
-## Note On Vercel Deployment For Hobby Plan
-
-In order to fit within the limitations of the Vercel hobby plan, we removed the **bcrypt-ts-edge** package and added custom encryption. Now the full project can be deployed to the Hobby plan.
-
-## License
-
-MIT License
-
-Copyright (c) [2025] [Traversy Media]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall
-# prostore-main
-
-
-
-
-
-# Screenshots
-![1](https://github.com/user-attachments/assets/55618409-5423-4454-8bff-cd2cdb88009c)
-![2](https://github.com/user-attachments/assets/4989b141-52bb-431f-a480-0194799711aa)
-![22](https://github.com/user-attachments/assets/4648c23d-c975-4a84-ad54-29eef1752f7e)
-![222](https://github.com/user-attachments/assets/7c48187a-a4ef-41aa-8e72-80bfac85ce99)
-![3](https://github.com/user-attachments/assets/1161d087-9fc2-47e6-a86d-8ddd79a7b7a3)
-![333](https://github.com/user-attachments/assets/871111dc-f311-4dbd-b1bd-36be2ed429dc)pa
-![payment](https://github.com/user-attachments/assets/a16a76b3-b4b2-4656-b5ef-39638eb9c698)
-
-![4](https://github.com/user-attachments/assets/732d355d-df4e-463a-94b2-417f515a97d1)
-![5](https://github.com/user-attachments/assets/1f80b908-7e41-4605-bdd2-034d61c3b458)
-![6](https://github.com/user-attachments/assets/d4241a7c-75d3-4e6f-ada4-87ff058b1b5c)
-
-![7](https://github.com/user-attachments/assets/51c12a6e-09e9-44d9-93d2-7a01b090c05e)
-
-![Screenshot 2025-01-12 at 9 40 10 PM](https://github.com/user-attachments/assets/1b9fac5a-37e0-4edb-963d-d4a687d70cb1)
-
-
-
-# prostore
