@@ -25,7 +25,7 @@ A full featured e-commerce website built with Next.js, TypeScript, PostgreSQL an
 - Sorting, filtering & pagination
 - Dark/Light mode
 
-## Usage
+## Usage - Steps to run the project
 
 ### Install Dependencies
 
