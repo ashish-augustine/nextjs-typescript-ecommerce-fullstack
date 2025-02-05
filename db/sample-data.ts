@@ -61,7 +61,7 @@ const sampleData = {
       brand: 'Tommy Hilfiger',
       rating: 4.9,
       numReviews: 3,
-      stock: 0,
+      stock: 1,
       isFeatured: false,
       banner: null,
     },
