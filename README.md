@@ -1,20 +1,4 @@
 
-Only test cards
-
-
-sidenote: Both of the stripe api keys are test mode keys. (Ashish 17.01.2025 : AT time 7:00 pm)
-
-Only test card works with test keys.
-
-
-Only this card works : 4242424242424242
-For live cards, live API required
-
-🤩Please dont change the things above🤩
-
-
-
-Live Demo :  https://prostore-smoky.vercel.app/ 
 
 
 # Prostore
@@ -23,10 +7,9 @@ A full featured e-commerce website built with Next.js, TypeScript, PostgreSQL an
 
 <img src="/public/images/screen.png" alt="Next.js Ecommerce" />
 
-This project is from my **Next.js Ecommerce course**
 
-- Traversy Media: https://www.traversymedia.com/nextjs-ecommerce
-- Udemy: https://www.udemy.com/course/nextjs-ecommerce-course
+## Live Demo :  https://prostore-smoky.vercel.app/ 
+
 
 ## Features
 
